@@ -9,6 +9,5 @@
 <body>
 	github sample
 	github sample ver2
-	¤·¤·¤·
 </body>
 </html>
